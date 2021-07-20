@@ -1,0 +1,25 @@
+.logo {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.logoPadding {
+    padding: 0 !important;
+}
+
+.alignGreeting {
+    text-align: end;
+}
+
+.toolbar {
+    padding: 0 !important;
+}
+
+.linkDecoration, .linkDecoration:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.textAlign {
+    text-align: start;
+}

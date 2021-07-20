@@ -1,0 +1,16 @@
+.offset {
+    margin-top: 100px;
+}
+
+.form{
+    padding: 20px 220px;
+    background-color: #fff;
+}
+
+.formButtons {
+    margin-top: 20px;
+}
+
+.textAlign {
+    text-align: start !important;
+}
